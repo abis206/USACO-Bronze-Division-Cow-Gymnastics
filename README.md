@@ -18,3 +18,5 @@ SAMPLE INPUT:
 SAMPLE OUTPUT:
 4
 The consistent pairs of cows are (1,4), (2,4), (3,4), and (1,3).
+
+Score: 1000/3 (Bronze Division Score: 1000)
